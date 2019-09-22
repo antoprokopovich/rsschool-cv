@@ -1,0 +1,44 @@
+header {
+  height: 220px;
+  background: rgb(102, 199, 166);
+}
+
+.about {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.contacts {
+  float: left;
+  font-family: 'Lato', 'Geneva', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.contacts h1 {
+  margin: 20px 0 30px 20px;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+.contacts p {
+  margin: 10px 0 0 30px;
+  font-size: 18px;
+}
+
+img {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin: 10px 30px 10px 10px;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(226, 226, 226, 0.9);
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+}
