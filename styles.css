@@ -10,7 +10,7 @@ header {
 
 .contacts {
   float: left;
-  font-family: 'Lato', 'Geneva', sans-serif;
+  font-family: 'Lato', sans-serif;
   color: rgb(255, 255, 255);
 }
 
@@ -46,6 +46,7 @@ header a:hover {
 main {
   width: 1024px;
   margin: 0 auto;
+  font-family: 'Lato', sans-serif;
 }
 
 main h2 {
@@ -89,3 +90,20 @@ main a:hover {
   padding-bottom: 20px;
 }
 
+footer {
+  height: 40px;
+  background: rgb(102, 199, 166);
+}
+
+.information {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.information p {
+  padding: 20px 0 0 30px;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
