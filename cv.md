@@ -6,9 +6,10 @@
 My goal is to become a developer. I like to develop in this direction and now I'm actively learning JS, HTML, CSS.  
 ## Skills  
 * **Programming languages and technologies:** JavaScript, HTML, CSS  
-* **Tools:** GIT, VSCode 
+* **Tools:** GIT, VSCode  
+   
 ## Code examples  
-Code examples can be found [here](https://github.com/antoprokopovich) 
+Code examples can be found [here](https://github.com/antoprokopovich)  
 ## Experience  
 **Department of education, 2015 - 2017**  
 **Position:** System administrator  
