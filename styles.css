@@ -34,11 +34,58 @@ img {
   border-radius: 5px;
 }
 
-a {
+header a {
   text-decoration: none;
   color: rgba(226, 226, 226, 0.9);
 }
 
-a:hover {
+header a:hover {
   color: rgb(255, 255, 255);
 }
+
+main {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+main h2 {
+  padding: 20px 0;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+main p {
+  padding-left: 30px;
+  font-size: 18px;
+  text-align: left;
+}
+
+.skills ul {
+  padding-left: 50px;
+  font-size: 18px;
+  text-align: left;
+  list-style-type: disc;
+}
+
+.skills-span {
+  font-weight: bold;
+}
+
+main a {
+  text-decoration: none;
+  color: rgba(62, 58, 129, 0.9);
+}
+
+main a:hover {
+  color: rgba(196, 72, 144, 0.9)
+}
+
+.experience span {
+  font-weight: bold;
+}
+
+.padding {
+  padding-bottom: 20px;
+}
+
