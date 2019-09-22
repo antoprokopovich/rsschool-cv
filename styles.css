@@ -1,0 +1,109 @@
+header {
+  height: 220px;
+  background: rgb(102, 199, 166);
+}
+
+.about {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.contacts {
+  float: left;
+  font-family: 'Lato', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.contacts h1 {
+  margin: 20px 0 30px 20px;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+.contacts p {
+  margin: 10px 0 0 30px;
+  font-size: 18px;
+}
+
+img {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin: 10px 30px 10px 10px;
+  border-radius: 5px;
+}
+
+header a {
+  text-decoration: none;
+  color: rgba(226, 226, 226, 0.9);
+}
+
+header a:hover {
+  color: rgb(255, 255, 255);
+}
+
+main {
+  width: 1024px;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+}
+
+main h2 {
+  padding: 20px 0;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+main p {
+  padding-left: 30px;
+  font-size: 18px;
+  text-align: left;
+}
+
+.skills ul {
+  padding-left: 50px;
+  font-size: 18px;
+  text-align: left;
+  list-style-type: disc;
+}
+
+.skills-span {
+  font-weight: bold;
+}
+
+main a {
+  text-decoration: none;
+  color: rgba(62, 58, 129, 0.9);
+}
+
+main a:hover {
+  color: rgba(196, 72, 144, 0.9)
+}
+
+.experience span {
+  font-weight: bold;
+}
+
+.padding {
+  padding-bottom: 20px;
+}
+
+footer {
+  height: 40px;
+  background: rgb(102, 199, 166);
+}
+
+.information {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.information p {
+  padding: 20px 0 0 30px;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
